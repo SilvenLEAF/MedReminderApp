@@ -1,2 +1,2 @@
-# RYUUSEI
-The NEXT DragonEMPEROR
+# MedReminderApp
+It reminds the eldeely to take their meds. 
