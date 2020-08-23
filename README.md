@@ -1,2 +1,2 @@
 # MedReminderApp
-It reminds the eldeely to take their meds. 
+It reminds the elderly to take their meds. 
